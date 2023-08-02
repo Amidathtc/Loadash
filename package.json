@@ -1,0 +1,20 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "My practice ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm start",
+    "start": "ts-node-dev --respawn --transpile-only index.ts"
+  },
+  "keywords": [
+    "practice",
+    "set07",
+    "Typescript"
+  ],
+  "author": "Ogunbyiy amidat",
+  "license": "MIT",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
